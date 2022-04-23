@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0074B70E8D79941dA3689908AB83Ab4053C60e3A",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x0074B70E8D79941dA3689908AB83Ab4053C60e3A#code",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Alliens_Light_Bulbs",
+  "SYMBOL": "ALB",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 25000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/account",
+  "SHOW_BACKGROUND": true
+}
